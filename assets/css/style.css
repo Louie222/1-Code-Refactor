@@ -36,7 +36,7 @@ body {
 .header nav ul {
     list-style-type: none;
 }
-/* changed this header tag from a div to a nav, so that it would correspond with the HTML*/
+/* changed this header tag from a div to a nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
